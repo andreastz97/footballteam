@@ -89,7 +89,7 @@ public class UpdateCoach extends javax.swing.JFrame {
         jButton2.setText("SAVE");
 
         jLabel4.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
-        jLabel4.setText("Uuid of coach :");
+        jLabel4.setText("ID :");
 
         jTextField2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

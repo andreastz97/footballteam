@@ -47,7 +47,7 @@ public class DeletePlayer extends javax.swing.JFrame {
         });
 
         jLabel7.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
-        jLabel7.setText("Uuid of player :");
+        jLabel7.setText("ID of player :");
 
         jButton2.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         jButton2.setText("SAVE");

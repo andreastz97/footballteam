@@ -18,6 +18,7 @@ public class CreateTeam extends javax.swing.JFrame {
      */
     public CreateTeam() {
         initComponents();
+       
     }
 
     /**
